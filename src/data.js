@@ -15,7 +15,7 @@ export const projects = [
     description:
       "Created a sleek and responsive WordPress website for Park Avenue Limousine, showcasing premium transportation services and easy online reservations.",
     image: "./park.png",
-    link: "https://saiairductclean.com/",
+    link: "https://parkavenuelimousine.com/",
   },
   {
     title: "CC Pressure Washing",
@@ -31,7 +31,7 @@ export const projects = [
     description:
       "Built an informative WordPress website for SAI Air Duct Clean, highlighting their cleaning services, expertise, and customer reviews.",
     image: "./sai.png",
-    link: "https://parkavenuelimousine.com/",
+    link: "https://saiairductclean.com/",
   },
 ];
 
